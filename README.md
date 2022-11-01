@@ -14,7 +14,8 @@ Below there is a list of resources related to Quantum Computing and Quantum Comm
     * [YouTube](https://www.youtube.com/playlist?list=PL7PbuDFCebIQjjgaiJfc6vW9gdvqcPto3)
   * Overview of Quantum Communications by Michal Hajdusek
     * [YouTube](https://www.youtube.com/watch?v=JZFK4jr3c7M&list=PLCTGenrx1-SOC-b98RCC1uEGI-Sc-N3C-)
-  * A Python implementation of the Cascade information reconciliation protocol for Quantum Key Distribution (QKD)
-    * [GitHub](https://github.com/brunorijsman/cascade-python)
-    * [Tutorial](https://hikingandcoding.wordpress.com/2020/01/15/a-cascade-information-reconciliation-tutorial/)
+  * Cascade information reconciliation protocol for QKD
+    * [Bruno Rijsma's GitHub](https://github.com/brunorijsman/cascade-python)
+    * [Bruno Rijsma's Tutorial](https://hikingandcoding.wordpress.com/2020/01/15/a-cascade-information-reconciliation-tutorial/)
+    * [Demistifying Cascade Protocol by J.Martinez-Mateo et al. 2014](https://arxiv.org/pdf/1407.3257.pdf)
 
