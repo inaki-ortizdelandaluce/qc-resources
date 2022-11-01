@@ -1,4 +1,4 @@
-# quantum-resources
+# qc-resources
 
 Below there is a list of resources related to Quantum Computing and Quantum Communications.
 
